@@ -8,11 +8,8 @@
 - 💬 Ask me about: if I am available for work!
 - 📫 How to reach me: <a href="william12211@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/william-beasley-5a1435a0/">LinkedIn</a>, <a href="https://github.com/willbeez">GitHub</a>, <a href="https://www.instagram.com/willbeez/">Instagram</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: To-do
+- ⚡ Fun fact: My hobbies include paramotoring, rock climbing, snowboarding, MTBing, and Photography.
 
 <!--
 **willbeez/willbeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -->
