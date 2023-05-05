@@ -2,7 +2,7 @@ title: Hello World Blog
 description: A simple blog using GitHub Pages and Jekyll
 baseurl: ""
 url: "https://willbeez.com"
-markdown: kramdown
-theme: minima
+#markdown: kramdown
+#theme: minima
 plugins:
   - jekyll-feed
