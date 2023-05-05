@@ -1,6 +1,3 @@
-### <img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:200px; height:200px; border-radius: 25%;">
-
-
 ### Hi there 👋
 - 🔭 I’m currently working on: <a href="https://github.com/willbeez/ESP32-WiFi-Bluetooth-Android">ESP32 AI plant health monitoring</a>
 - 🌱 I’m currently learning: <a href="https://github.com/hwchase17/langchain">LangChain</a>, <a href="https://www.pinecone.io/">Pinecone</a>, and C++ for ESP32 devices. 
@@ -10,13 +7,6 @@
 - 📫 How to reach me: <a href="william12211@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/william-beasley-5a1435a0/">LinkedIn</a>, <a href="https://github.com/willbeez">GitHub</a>, <a href="https://www.instagram.com/willbeez/">Instagram</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies include paramotoring, rock climbing, snowboarding, MTBing, and Photography.
-
-### Places I've worked 🏗️
-- IBM
-- Truist
-- Bank of America
-- Visa
-- Tranquil Hosting
 
 
 <!--
