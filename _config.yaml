@@ -1,7 +1,7 @@
 title: Hello World Blog
 description: A simple blog using GitHub Pages and Jekyll
 baseurl: ""
-url: "https://<your-username>.github.io/hello-world-blog"
+url: "https://willbeez.com"
 markdown: kramdown
 theme: minima
 plugins:
