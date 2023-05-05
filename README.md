@@ -1,3 +1,8 @@
+<nav>
+  <a href="/">Home</a> |
+  <a href="/blog">Blog</a>
+</nav>
+
 ### Hi there 👋
 - 🔭 I’m currently working on: <a href="https://github.com/willbeez/ESP32-WiFi-Bluetooth-Android">ESP32 AI plant health monitoring</a>
 - 🌱 I’m currently learning: <a href="https://github.com/hwchase17/langchain">LangChain</a>, <a href="https://www.pinecone.io/">Pinecone</a>, and C++ for ESP32 devices. 
