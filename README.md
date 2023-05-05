@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:10%; height:10%; border-radius:10%;"> 
+<img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:100px; height:100px; border-radius:10%;"> 
 
 ### Hi there 👋
 - 🔭 I’m currently working on: <a href="https://github.com/willbeez/ESP32-WiFi-Bluetooth-Android">ESP32 AI plant health monitoring</a>
