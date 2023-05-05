@@ -10,9 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies include paramotoring, rock climbing, snowboarding, MTBing, and Photography.
 
-<hr>
-<iframe src="https://www.linkedin.com/in/william-beasley-5a1435a0/detail/recommendations/" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
-
 
 <!--
 **willbeez/willbeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
