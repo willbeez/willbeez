@@ -1,4 +1,4 @@
-### <img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:200px; height:200px; border-radius:50%;">
+### <img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:200px; height:200px; border-radius: 25%;">
 
 
 ### Hi there 👋
