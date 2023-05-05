@@ -1,5 +1,4 @@
-### <img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:200px; height:200px; border-radius:50%;">
- Hi there 👋
+### <img src="https://avatars.githubusercontent.com/u/3200244?v=4" alt="My Profile Picture" style="width:100px; height:100px; border-radius:50%;"> Hi there 👋
 - 🔭 I’m currently working on: <a href="https://github.com/willbeez/ESP32-WiFi-Bluetooth-Android">ESP32 AI plant health monitoring</a>
 - 🌱 I’m currently learning: <a href="https://github.com/hwchase17/langchain">LangChain</a>, <a href="https://www.pinecone.io/">Pinecone</a>, and C++ for ESP32 devices. 
 - 👯 I’m looking to collaborate on: AI Projects that benifit everyone.
