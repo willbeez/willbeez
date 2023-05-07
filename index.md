@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 ![profile picture](/assets/images/will.jpeg){: style="border-radius: 50%; width: 25%; display: block; margin: auto;" }
 ### Hi there 👋
