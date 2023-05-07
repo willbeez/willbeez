@@ -8,3 +8,7 @@ avatar: https://avatars.githubusercontent.com/u/3200244?v=4
 plugins:
   - jekyll-feed
   - jekyll-avatar
+sass:
+  sass_dir: assets/css
+  style: compressed
+
