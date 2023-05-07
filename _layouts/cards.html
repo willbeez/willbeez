@@ -1,9 +1,8 @@
 ---
 layout: page
 ---
-
 <div class="cards">
-{% for card in site.data.cards %}
+  {% for card in site.data.cards %}
   <div class="card">
     <img src="{{ card.image }}" alt="{{ card.title }}">
     <div class="card-content">
@@ -11,5 +10,5 @@ layout: page
       <p>{{ card.description }}</p>
     </div>
   </div>
-{% endfor %}
+  {% endfor %}
 </div>
