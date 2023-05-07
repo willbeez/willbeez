@@ -4,10 +4,10 @@ title: Experience
 permalink: /experience/
 ---
 
-![IBM](/assets/images/IBM_logo.svg){width=10% height=10%}
+![IBM](/assets/images/IBM_logo.svg){: style="width: 25%;"}
 
-![Truist](/assets/images/Truist.jpg){width=10% height=10%}
+![Truist](/assets/images/Truist.jpg){: style="width: 25%;"}
 
-![BOA](/assets/images/Bank-of-America-Logo.png){width=10% height=10%}
+![BOA](/assets/images/Bank-of-America-Logo.png){: style="width: 25%;"}
 
-![Visa](/assets/images/Visa_Logo.png){width=10% height=10%}
+![Visa](/assets/images/Visa_Logo.png){: style="width: 25%;"}
