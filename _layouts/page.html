@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-<img src="{{ '/assets/images/bars.jpeg' | relative_url }}" alt="Your image description">
+<div style="height: 50px; overflow: hidden; position: relative;">
+    <img src="{{ '/assets/images/bars.jpeg' | relative_url }}" alt="Your image description" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: auto;">
+</div>  
 <div class="content-spacing">
     {{ content }}
 </div>
