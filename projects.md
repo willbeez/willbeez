@@ -4,9 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-Your projects will be listed here.
+This page is a WIP
 
-- Project 1
-- Project 2
-- Project 3
+- AI plant health monitor 
+- Neural net stock trading strategy
+- Discord chatGPT voice bot
+- Lollypop qobuz-dl integration
 
