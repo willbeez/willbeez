@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
 Your projects will be listed here.
 
 - Project 1
