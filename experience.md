@@ -11,6 +11,8 @@ permalink: /experience/
  - Managed various projects and priorities effectively, creating and assigning Jira stories based on team needs, prioritizing tasks, facilitating cross-team communication, and consistently delivering high-quality work.
  - Mentored and guided junior team members, promoting a culture of continuous learning and skill development.
 
+
+
 ![Truist](/assets/images/Truist.jpg){: style="width: 30%;"}
 # Senior Developer/Scrum Master - Jan 2020 - Dec 2021
  - Led the migration of the application environment to a new host, collaborating with multiple teams, modifying Docker containers, configuring networking rules, acquiring certificates, and establishing deployment and backup processes.
@@ -18,9 +20,13 @@ permalink: /experience/
  - Managed various projects and priorities effectively, creating and assigning Jira stories based on team needs, prioritizing tasks, facilitating cross-team communication, and consistently delivering high-quality work.
  - Mentored and guided junior team members, promoting a culture of continuous learning and skill development.
 
+
+
 ![BOA](/assets/images/Bank-of-America-Logo.png){: style="width: 30%;"}
 # Senior Architect -  Sept 2019 - Jan 2020
  - Led the migration of the application environment to a new host, collaborating with multiple teams, modifying Docker containers, configuring networking rules, acquiring certificates, and establishing deployment and backup processes.
+
+ 
 
 
 ![Visa](/assets/images/Visa_Logo.png){: style="width: 30%;"}
