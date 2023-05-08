@@ -19,7 +19,7 @@ permalink: /experience/
  - Wrote extremly complex data load validation SQL scripts that where essentailly the reverse engineered transformation, could be +2000 lines of code per validation.
  <div class="experience"></div>
 
-![BOA](/assets/images/Bank-of-America-Logo.png){: style="width: 30%;"}
+![BOA](/assets/images/Bank-of-America-Emblem.png){: style="width: 30%;"}
 ### Senior Architect (Infosys) -  Sept 2019 - Jan 2020
  - Developed POC for new ETL pipeline environment, POC used Kafka, Spark(Streaming) and HDFS. 
  - Brief position here because they waited until I was onboarded to tell me I needed to relocate.
