@@ -4,6 +4,8 @@ title: Experience
 permalink: /experience/
 ---
 
+### Experience
+
 ![IBM](/assets/images/IBM_logo.svg){: style="width: 25%;"}
 # Software Developer - Jan 2022 - May 2023
  - Led the migration of the application environment to a new host, collaborating with multiple teams, modifying Docker containers, configuring networking rules, acquiring certificates, and establishing deployment and backup processes.
