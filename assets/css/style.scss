@@ -4,6 +4,10 @@
 
 @import "jekyll-theme-primer";
 
+.content-spacing {
+  padding-top: 10%;
+}
+
 .cards {
   display: flex;
   flex-wrap: wrap;
